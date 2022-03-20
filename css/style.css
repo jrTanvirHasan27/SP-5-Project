@@ -35,3 +35,8 @@ body {
     background: var(--color-bg);
 }
 
+.container {
+    width: var(--container-width-lg);
+    margin: 0 auto;
+}
+
