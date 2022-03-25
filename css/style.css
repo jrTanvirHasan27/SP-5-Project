@@ -327,6 +327,51 @@ header {
     display: block;
 }
 
+/* ***** ======== Testimonial  ======= ****** */
 
+.testimonial-container{
+    overflow-x: hidden;
+    position: relative;
+    margin-bottom: 5rem;
+}
 
+.testimonial{
+    padding-top: 2rem;
+}
+.avatar{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 1rem;
+    border: 6px solid var(--color-success);
+    text-align: center;
+}
+
+.testimonial-info{
+    text-align: center;
+}
+
+.testimonial-content{
+    background: var(--color-bg1);
+    padding: 2rem;
+    margin-top: 3rem;
+    position: relative;
+}
+
+.testimonial-content::before{
+    content: "";
+    display: block;
+    background: linear-gradient(135deg,
+    transparent, 
+    var(--color-bg1), 
+    var(--color-bg1),
+     var(--color-bg1));
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    left: 50%;
+    top: -1.5rem;
+    transform: rotate(45deg);
+}
 
