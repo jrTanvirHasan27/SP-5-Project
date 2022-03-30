@@ -511,7 +511,7 @@ footer ul li a {
 
     .nav__menu li a:hover {
         background: var(--color-primary);
-        color: crimson;
+        color: rgb(20, 123, 220);
         font-weight: 700;
     }
 
