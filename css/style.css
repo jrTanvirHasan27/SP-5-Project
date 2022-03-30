@@ -9,17 +9,17 @@
 }
 
 :root {
-    --color-primary: #ADB5BD;
-    --color-success: #71a5de;
+    --color-primary: #B1D0E0;
+    --color-success: #064663;
     --color-warning: #cdaffa;
-    --color-danger: #212529;
+    --color-danger: #04293A;
     --color-danger-variant: #71a5de;
     --color-white: #fff;
     --color-light: #F8F9FA;
     --color-black: #000;
-    --color-bg: #6C757D;
-    --color-bg1: #495057;
-    --color-bg2: #343A40;
+    --color-bg: #1A374D;
+    --color-bg1: #406882;
+    --color-bg2: #6998AB;
 
     --container-width-lg: 76%;
     --container-width-md: 90%;
