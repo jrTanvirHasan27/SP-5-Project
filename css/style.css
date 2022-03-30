@@ -266,7 +266,7 @@ header {
     text-align: center;
     border: 1px solid transparent;
     transition: var(--transition);
-    border-radius: 1.5rem;
+    border-radius: 0.5rem;
 }
 
 .course:hover {

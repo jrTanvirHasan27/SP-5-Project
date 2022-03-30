@@ -56,7 +56,7 @@
 /* ================== TEAM ================== */
 
 .team {
-    background: var(--color-bg1);
+    background: var(--color-success);
     box-shadow: inset 0 0 3rem rgba(0, 0, 0, 0.5);
 }
 
@@ -73,11 +73,12 @@
     transition: var(--transition);
     position: relative;
     overflow: hidden;
+    border-radius: .5rem;
 }
 
 .team-member:hover {
-    background: transparent;
-    border-color: var(--color-primary);
+    background: var(--color-bg1);
+    border-color: var(--color-light);
 }
 
 .team_member-image img {
