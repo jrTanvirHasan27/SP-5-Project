@@ -390,11 +390,12 @@ footer {
     gap: 5rem;
 }
 
+
 .footer-container>div h4 {
     margin-bottom: 1.2rem;
 }
 
-footer-1 p {
+.footer-1 p {
     margin: 0 0 2rem;
 }
 
