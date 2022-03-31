@@ -74,6 +74,7 @@
 
 .contact_form input[type="text"] {
     width: 50%;
+    border-radius: 1rem;
 }
 
 input, textarea {
@@ -81,6 +82,7 @@ input, textarea {
     padding: 1rem;
     background: var(--color-light);
     color: var(--color-black);
+    border-radius: 1rem;
 }
 
 .contact_form .btn {
