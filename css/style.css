@@ -472,7 +472,7 @@ footer ul li a {
     .nav__menu li {
         width: 100%;
         height: 6rem;
-        animation: animateNavItems 150ms ease forwards;
+        animation: animateNavItems 100ms ease forwards;
         /*transform-origin: top right;*/
         opacity: 0;
     }
