@@ -125,6 +125,7 @@ input, textarea {
         gap: 3rem;
         margin-top: 0;
         padding: 0;
+        height: auto;
     }
 
     .contact_form {
